@@ -1,0 +1,6 @@
+D:\dalong.programming\dalong.CS\ConsoleAppStudy\ConsoleAppNetFramework\bin\Debug\ConsoleAppNetFramework.exe
+D:\dalong.programming\dalong.CS\ConsoleAppStudy\ConsoleAppNetFramework\bin\Debug\ConsoleAppNetFramework.pdb
+D:\dalong.programming\dalong.CS\ConsoleAppStudy\ConsoleAppNetFramework\obj\Debug\ConsoleAppNetFramework.csproj.AssemblyReference.cache
+D:\dalong.programming\dalong.CS\ConsoleAppStudy\ConsoleAppNetFramework\obj\Debug\ConsoleAppNetFramework.csproj.CoreCompileInputs.cache
+D:\dalong.programming\dalong.CS\ConsoleAppStudy\ConsoleAppNetFramework\obj\Debug\ConsoleAppNetFramework.exe
+D:\dalong.programming\dalong.CS\ConsoleAppStudy\ConsoleAppNetFramework\obj\Debug\ConsoleAppNetFramework.pdb

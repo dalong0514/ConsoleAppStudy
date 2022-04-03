@@ -1,0 +1,6 @@
+D:\dalong.programming\dalong.CS\ConsoleAppStudy\StudyClass\bin\Debug\StudyClass.dll
+D:\dalong.programming\dalong.CS\ConsoleAppStudy\StudyClass\bin\Debug\StudyClass.pdb
+D:\dalong.programming\dalong.CS\ConsoleAppStudy\StudyClass\obj\Debug\StudyClass.csproj.AssemblyReference.cache
+D:\dalong.programming\dalong.CS\ConsoleAppStudy\StudyClass\obj\Debug\StudyClass.csproj.CoreCompileInputs.cache
+D:\dalong.programming\dalong.CS\ConsoleAppStudy\StudyClass\obj\Debug\StudyClass.dll
+D:\dalong.programming\dalong.CS\ConsoleAppStudy\StudyClass\obj\Debug\StudyClass.pdb

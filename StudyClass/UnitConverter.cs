@@ -19,9 +19,9 @@ namespace StudyClass
         {
             return unit * ratio;
         }
-        static int FeetToInches(int feet)
+        public static int FeetToInches(int feet)
         {
-            int inches = feet * 12;
+            int inches = feet * 120;
             return inches;
         }
     }

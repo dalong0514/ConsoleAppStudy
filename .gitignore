@@ -363,3 +363,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+.vs/ConsoleAppStudy/v17/.suo
+ConsoleAppNetFramework/obj/Debug/ConsoleAppNetFramework.csproj.AssemblyReference.cache
